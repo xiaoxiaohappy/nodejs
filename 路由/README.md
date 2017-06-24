@@ -12,3 +12,5 @@ node index.js
 “Server has started.”
 
 之后输出server.js的其他内容，最后输出router.js的内容
+
+<img src="test.png">

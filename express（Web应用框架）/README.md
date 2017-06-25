@@ -28,3 +28,35 @@ npm install multer --save
 <img src="express_demo_2.png">
 
 <img src="express_demo_3.png">
+
+<h5> express路由实例：
+
+<img src="express_router_example_1.png">
+
+<img src="express_router_example_2.png">
+
+<img src="express_router_example_3.png">
+
+正则匹配的网址内容，满足ab*cd.html即可
+
+<img src="express_router_example_4.png">
+
+<h5> express的static静态文件
+<img src="static_1.png">
+<img src="static_2.png">
+
+<h5> get测试
+
+<img src="get_server_1.png">
+
+提交之后：
+
+<img src="get_server_2.png">
+
+<h5> post测试
+
+<img src="post_server_1.png">
+
+提交之后：
+
+<img src="post_server_2.png">
